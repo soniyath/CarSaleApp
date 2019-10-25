@@ -13,3 +13,4 @@ The project works on a specific database with the help of the .SQL file which is
 2. Make sure the Microsoft SQL Server is running successfully.
 3. Once you see the session is being restored throughout the session, then you're good to go!
 
+All the required validations are provided with the application. However, any modification ideas or change ideas would be really appreciated! :)
